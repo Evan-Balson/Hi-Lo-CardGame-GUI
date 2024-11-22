@@ -1,0 +1,9 @@
+Requirements:
+
+- Microsoft Visual Studio - Community Edition/Professional
+
+- Install c++, .Net Framework and WinForms workflows.
+
+- Import the Solution into Microsoft Visual Studio or launch the file named "CodeChallenge-CardGame.sln"
+
+- Run the program
